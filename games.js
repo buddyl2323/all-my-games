@@ -2,10 +2,10 @@
 // Example: tidal: 'https://your-fishing-game.onrender.com'
 // GitHub Pages hosts this website; multiplayer game servers should remain on Render.
 const GAME_URLS = {
-  tidal: '',
-  whisper: '',
-  shooter: '',
-  city: ''
+  tidal: 'https://hi-tupl.onrender.com',
+  whisper: 'https://buddyl2323.github.io/my-games/whisper-station/?utm_source=chatgpt.com',
+  shooter: 'https://blacksiteshooter.onrender.com',
+  city: 'https://buddyl2323.github.io/lost-city/'
 };
 
 for (const link of document.querySelectorAll('[data-game]')) {
