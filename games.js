@@ -5,7 +5,7 @@ const GAME_URLS = {
   tidal: 'https://hi-tupl.onrender.com',
   whisper: 'https://buddyl2323.github.io/my-games/whisper-station/?utm_source=chatgpt.com',
   shooter: 'https://blacksiteshooter.onrender.com',
-  city: 'https://buddyl2323.github.io/lost-city/'
+  casino: 'https://daddy-kaden.onrender.com'
 };
 
 for (const link of document.querySelectorAll('[data-game]')) {
